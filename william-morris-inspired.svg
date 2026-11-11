@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+<rect width="240" height="240" fill="#d6c5a9"/>
+<g fill="none" stroke="#713b43" stroke-width="1.6" opacity=".48">
+<path d="M120 0 C72 35 72 75 120 108 C168 75 168 35 120 0Z M120 132 C72 165 72 205 120 240 C168 205 168 165 120 132Z"/>
+<path d="M0 120 C35 72 75 72 108 120 C75 168 35 168 0 120Z M132 120 C165 72 205 72 240 120 C205 168 165 168 132 120Z"/>
+<path d="M120 36 C100 52 100 76 120 91 C140 76 140 52 120 36Z M120 149 C100 165 100 189 120 204 C140 189 140 165 120 149Z"/>
+<path d="M36 120 C52 100 76 100 91 120 C76 140 52 140 36 120Z M149 120 C165 100 189 100 204 120 C189 140 165 140 149 120Z"/>
+<path d="M120 0Q110 30 120 52Q130 30 120 0M120 188Q110 210 120 240Q130 210 120 188M0 120Q30 110 52 120Q30 130 0 120M188 120Q210 110 240 120Q210 130 188 120"/>
+</g><g fill="#243d32" opacity=".32"><ellipse cx="80" cy="43" rx="8" ry="18" transform="rotate(-40 80 43)"/><ellipse cx="160" cy="197" rx="8" ry="18" transform="rotate(-40 160 197)"/><ellipse cx="43" cy="160" rx="8" ry="18" transform="rotate(50 43 160)"/><ellipse cx="197" cy="80" rx="8" ry="18" transform="rotate(50 197 80)"/></g>
+<g fill="#aa905f"><circle cx="120" cy="120" r="5"/><circle cx="120" cy="22" r="3"/><circle cx="22" cy="120" r="3"/><circle cx="218" cy="120" r="3"/><circle cx="120" cy="218" r="3"/></g></svg>
